@@ -1,0 +1,21 @@
+.oddElements {
+    /* a light red/pink background, and a list of fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as a fallback */
+    background-color: rgb(255,130,150);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#element2 {
+    /* blue text and a font size of 36px */
+    color: rgb(0, 110, 255);
+    font-size: 36px;
+}
+
+#element4 {
+    /* a light green background, a font size of 24px, and bold */
+    background-color: rgb(73, 255, 73);
+    font-weight: bold;
+}
+
+.font24 {
+    font-size: 24px;
+}
